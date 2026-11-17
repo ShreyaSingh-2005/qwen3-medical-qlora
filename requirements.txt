@@ -1,0 +1,10 @@
+unsloth
+trl
+peft
+accelerate
+bitsandbytes
+triton
+xformers<0.0.29
+datasets
+torch
+transformers
